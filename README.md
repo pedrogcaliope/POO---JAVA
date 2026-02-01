@@ -43,19 +43,11 @@ dos conceitos de Programação Orientada a Objetos, como:
 
 ---
 
-##  Público-Alvo
-
-- Alunos de graduação em Computação e áreas afins  
-- Estudantes iniciando em Programação Orientada a Objetos  
-- Professores que desejem utilizar o material como apoio didático  
-
----
-
 ##  Observações Importantes
 
 - Os códigos foram desenvolvidos **exclusivamente para fins educacionais**  
 - Alguns exemplos podem ser simplificados propositalmente para facilitar o
   entendimento dos conceitos  
-- Recomenda-se a leitura conjunta da apostila da disciplina  
-
+- Recomenda-se a leitura conjunta da apostila da disciplina
+  
 ---
