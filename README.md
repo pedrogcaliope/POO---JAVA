@@ -23,11 +23,6 @@ Não há separação por aulas.
 
 ---
 
-Cada diretório contém apenas **códigos em Java**, mantendo a organização clara
-e objetiva.
-
----
-
 ##  Linguagem Utilizada
 
 - Java
